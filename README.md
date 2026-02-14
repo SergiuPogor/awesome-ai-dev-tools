@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/github/last-commit/PierrunoYT/awesome-ai-dev-tools?style=for-the-badge&logo=git" alt="Last Commit">
 </div>
 
-> A curated collection of **240+** AI-powered development tools organized alphabetically to supercharge your coding workflow 🔥
+> A curated collection of **242+** AI-powered development tools organized alphabetically to supercharge your coding workflow 🔥
 
 ## 📋 Table of Contents
 
@@ -241,6 +241,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[Create.xyz](https://www.create.xyz/)** - An AI tool focused on creating prototypes and website designs.
 
+**[Crush](https://github.com/charmbracelet/crush)** - A terminal-based AI coding assistant by Charmbracelet that brings agentic AI capabilities directly to your command line, supporting multiple LLMs, LSP integration, Model Context Protocol (MCP) servers, and cross-platform compatibility.
+
 **[Cursor](https://cursor.sh/)** - An AI-first code editor built on a VS Code fork, deeply integrating AI features like codebase-aware chat, code generation, debugging assistance, and automated code migration.
 
 **[Datadog](https://datadog.com/)** - An application monitoring platform with AI-powered insights and observability features.
@@ -460,6 +462,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 **[PyCharm](https://www.jetbrains.com/pycharm/)** - A popular IDE for Python development that includes intelligent code assistance features, now enhanced with JetBrains AI.
 
 **[Pythagora](https://www.pythagora.ai)** - A VS Code extension for natural language app development, featuring a multi-agent architecture and autonomous deployment capabilities.
+
+**[Qoder](https://qoder.com/)** - An agentic coding platform with Quest Mode for autonomous task execution, available as an AI-native IDE, JetBrains plugin, and CLI, featuring deep codebase analysis, automated documentation (RepoWiki), and Model Context Protocol (MCP) support.
 
 **[Qodo AI](https://www.qodo.ai)** - A quality-focused generative AI coding platform (formerly Codium) with specialized agents for code generation, test coverage, and merge assistance.
 
